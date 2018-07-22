@@ -51,4 +51,3 @@ git commit -m 'merge css-styling branch'
 git push
 ```
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/CSS-Styling' title='CSS Styling'>CSS Styling</a> on Learn.co and start learning to code for free.</p>
